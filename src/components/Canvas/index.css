@@ -1,0 +1,4 @@
+.Canvas {
+    display: flex;
+    flex-wrap: wrap;
+}
